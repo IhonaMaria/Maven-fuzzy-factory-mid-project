@@ -45,3 +45,11 @@ In this question, we have learned about the different types of traffic.
 
 After the analysis, we can see that organic and direct-type-in sessions are growing, which is good for the business since this does not cost them money and they have the 100% benefit of the orders. 
 
+### Question 5
+**Pull session to order conversion rates, by month.**
+
+The session to order conversion rate indicates the percentage of sessions that turned out as an order. The higher the rate is, the better for the business (it means they are selling more). 
+
+![image](https://github.com/IhonaMaria/Maven-fuzzy-factory-mid-project/assets/119692820/1a5d5b8b-11e2-4da0-a31f-c55badfaa355)
+
+We can see that, as the months go by, the session to order conversion rate increases up to 4.4%. 
