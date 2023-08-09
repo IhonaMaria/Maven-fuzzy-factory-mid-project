@@ -22,3 +22,10 @@ We can see that the number of sessions grows over time.
 
 Brand campaigns represent someone going into the search engines and specifically looking for that particular business. Therefore, the fact that brand sessions and orders have increased
 dramatically increased is a good sign. 
+
+### Question 3
+**While we are on gsearch, could you dive into nonbrand, and pull monthly sessions and orders split by device type?**
+
+![image](https://github.com/IhonaMaria/Maven-fuzzy-factory-mid-project/assets/119692820/cc6456c6-28d7-4171-8116-ff11a49f29c6)
+
+We can see from the analysis that there are a lot more desktop sessions and desktop orders with respect to mobile. 
