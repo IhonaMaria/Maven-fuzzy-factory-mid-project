@@ -53,3 +53,5 @@ The session to order conversion rate indicates the percentage of sessions that t
 ![image](https://github.com/IhonaMaria/Maven-fuzzy-factory-mid-project/assets/119692820/1a5d5b8b-11e2-4da0-a31f-c55badfaa355)
 
 We can see that, as the months go by, the session to order conversion rate increases up to 4.4%. 
+
+
